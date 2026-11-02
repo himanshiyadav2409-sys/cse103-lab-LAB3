@@ -79,4 +79,7 @@ python3 main.py
 
 - [GitHub Skills](https://skills.github.com/)
 
+## Lab 3 Update
+Successfully tested GitHub pull operations.
+
 - [Markdown Guide](https://www.markdownguide.org/)
